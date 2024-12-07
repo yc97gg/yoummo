@@ -56,10 +56,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Analyzer Include="D:\newrunajian\visualstudio\ide\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
-    <Analyzer Include="D:\newrunajian\unitywenjian\untiyprogram\yoummo\yoummo\My project (14)\Library\PackageCache\com.unity.collab-proxy@2.6.0\Lib\Editor\unityplastic.dll" />
-    <Analyzer Include="D:\newrunajian\unitywenjian\untiyprogram\yoummo\yoummo\My project (14)\Library\PackageCache\com.unity.collab-proxy@2.6.0\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll" />
-    <Analyzer Include="D:\newrunajian\unitywenjian\untiyprogram\yoummo\yoummo\My project (14)\Library\PackageCache\com.unity.collab-proxy@2.6.0\Lib\Editor\log4netPlastic.dll" />
-    <Analyzer Include="D:\newrunajian\unitywenjian\untiyprogram\yoummo\yoummo\My project (14)\Library\PackageCache\com.unity.collab-proxy@2.6.0\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll" />
     <Analyzer Include="D:\newrunajian\unitywenjian\eeditor\2022.3.53f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="D:\newrunajian\unitywenjian\eeditor\2022.3.53f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
@@ -72,8 +68,8 @@
     <Compile Include="Assets\NGUI\Scripts\Internal\MinMaxRangeAttribute.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\UISoundVolume.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UIOrthoCamera.cs" />
-    <Compile Include="Assets\NGUI\Examples\Scripts\Other\LagPosition.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\Other\SetColorPickerColor.cs" />
+    <Compile Include="Assets\NGUI\Examples\Scripts\Other\LagPosition.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\UIItemSlot.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\UIDragDropRoot.cs" />
     <Compile Include="Assets\NGUI\Scripts\Tweening\TweenRotation.cs" />
@@ -103,8 +99,8 @@
     <Compile Include="Assets\NGUI\Scripts\UI\UIInputOnGUI.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\Other\PerspectivePixelPerfect.cs" />
     <Compile Include="Assets\NGUI\Scripts\Tweening\TweenWidth.cs" />
-    <Compile Include="Assets\NGUI\Scripts\Tweening\TweenHeight.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\Other\WindowAutoYaw.cs" />
+    <Compile Include="Assets\NGUI\Scripts\Tweening\TweenHeight.cs" />
     <Compile Include="Assets\NGUI\Scripts\Tweening\TweenAlpha.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\UIButtonKeys.cs" />
     <Compile Include="Assets\NGUI\Scripts\Internal\UIGeometry.cs" />
@@ -127,8 +123,8 @@
     <Compile Include="Assets\NGUI\Scripts\Interaction\UIImageButton.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\UIScrollBar.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UILocalize.cs" />
-    <Compile Include="Assets\NGUI\Examples\Scripts\Other\OpenURLOnClick.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\LanguageSelection.cs" />
+    <Compile Include="Assets\NGUI\Examples\Scripts\Other\OpenURLOnClick.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\System\InvBaseItem.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\UIKeyBinding.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\UIEquipmentSlot.cs" />

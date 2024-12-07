@@ -56,10 +56,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Analyzer Include="D:\newrunajian\visualstudio\ide\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
-    <Analyzer Include="D:\newrunajian\unitywenjian\untiyprogram\yoummo\yoummo\My project (14)\Library\PackageCache\com.unity.collab-proxy@2.6.0\Lib\Editor\unityplastic.dll" />
-    <Analyzer Include="D:\newrunajian\unitywenjian\untiyprogram\yoummo\yoummo\My project (14)\Library\PackageCache\com.unity.collab-proxy@2.6.0\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll" />
-    <Analyzer Include="D:\newrunajian\unitywenjian\untiyprogram\yoummo\yoummo\My project (14)\Library\PackageCache\com.unity.collab-proxy@2.6.0\Lib\Editor\log4netPlastic.dll" />
-    <Analyzer Include="D:\newrunajian\unitywenjian\untiyprogram\yoummo\yoummo\My project (14)\Library\PackageCache\com.unity.collab-proxy@2.6.0\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll" />
     <Analyzer Include="D:\newrunajian\unitywenjian\eeditor\2022.3.53f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="D:\newrunajian\unitywenjian\eeditor\2022.3.53f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
@@ -90,8 +86,8 @@
     <Compile Include="Assets\NGUI\Scripts\Editor\NGUIEditorTools.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\NGUISelectionTools.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\UIScrollBarEditor.cs" />
-    <Compile Include="Assets\NGUI\Scripts\Editor\TweenColorEditor.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\SpriteSelector.cs" />
+    <Compile Include="Assets\NGUI\Scripts\Editor\TweenColorEditor.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\UIWrapContentEditor.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\UIButtonEditor.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\UIWidgetInspector.cs" />
@@ -108,8 +104,8 @@
     <Compile Include="Assets\NGUI\Scripts\Editor\PropertyBindingEditor.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\TweenFOVEditor.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\UIGridEditor.cs" />
-    <Compile Include="Assets\NGUI\Scripts\Editor\FreeType.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\NGUIHandles.cs" />
+    <Compile Include="Assets\NGUI\Scripts\Editor\FreeType.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\UIEventTriggerEditor.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\UIStretchEditor.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\TweenHeightEditor.cs" />
