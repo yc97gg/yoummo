@@ -77,11 +77,13 @@
     <Compile Include="Assets\NGUI\Scripts\Editor\UIKeyNavigationEditor.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\UIAnchorEditor.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\UICircleEditor.cs" />
+    <Compile Include="Assets\T4M\Editor\T4MExtendsSC.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\MinMaxRangeAttributeDrawer.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Editor\InvDatabaseInspector.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\UIProgressBarEditor.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\EventDelegateDrawer.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\ActiveAnimationEditor.cs" />
+    <Compile Include="Assets\T4M\Editor\T4MSC.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\UICreateNewUIWizard.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\NGUIEditorTools.cs" />
     <Compile Include="Assets\NGUI\Scripts\Editor\NGUISelectionTools.cs" />

@@ -95,6 +95,8 @@
     <Compile Include="Assets\NGUI\Scripts\Interaction\UISavedOption.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\System\InvDatabase.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UIRoot.cs" />
+    <Compile Include="Assets\T4M\Scripts\T4MBillBObjSC.cs" />
+    <Compile Include="Assets\T4M\Scripts\T4MPartSC.cs" />
     <Compile Include="Assets\NGUI\Scripts\Tweening\TweenTransform.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UIInputOnGUI.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\Other\PerspectivePixelPerfect.cs" />
@@ -113,6 +115,7 @@
     <Compile Include="Assets\NGUI\Scripts\Internal\ByteReader.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\Other\ExampleDragDropSurface.cs" />
     <Compile Include="Assets\NGUI\Scripts\Tweening\TweenFill.cs" />
+    <Compile Include="Assets\T4M\Scripts\T4MPlantObjSC.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\Other\PlayIdleAnimations.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\UIButtonOffset.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\Other\Tutorial5.cs" />
@@ -121,6 +124,7 @@
     <Compile Include="Assets\NGUI\Scripts\Interaction\UIKeyNavigation.cs" />
     <Compile Include="Assets\NGUI\Scripts\Internal\NGUIMath.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\UIImageButton.cs" />
+    <Compile Include="Assets\T4M\Tutorial\Scripts\FlyCam.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\UIScrollBar.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UILocalize.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\LanguageSelection.cs" />
@@ -175,6 +179,7 @@
     <Compile Include="Assets\NGUI\Scripts\Internal\PropertyBinding.cs" />
     <Compile Include="Assets\NGUI\Scripts\Tweening\AnimatedColor.cs" />
     <Compile Include="Assets\NGUI\Scripts\Tweening\TweenOrthoSize.cs" />
+    <Compile Include="Assets\T4M\Tutorial\Scripts\WaypointCam.cs" />
     <Compile Include="Assets\NGUI\Scripts\Tweening\UITweener.cs" />
     <Compile Include="Assets\NGUI\Scripts\Internal\UIWidget.cs" />
     <Compile Include="Assets\NGUI\Scripts\Tweening\TweenColor.cs" />
@@ -190,6 +195,7 @@
     <Compile Include="Assets\NGUI\Scripts\Interaction\UIButtonRotation.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\Other\WindowDragTilt.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\System\InvAttachmentPoint.cs" />
+    <Compile Include="Assets\T4M\Scripts\T4MLodObjSC.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UICircle.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\UIEventTrigger.cs" />
     <Compile Include="Assets\NGUI\Scripts\Internal\UIDrawCall.cs" />
@@ -204,6 +210,7 @@
     <Compile Include="Assets\NGUI\Scripts\Tweening\SpringPosition.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\UIPlayTween.cs" />
     <Compile Include="Assets\NGUI\Scripts\UI\UILabel.cs" />
+    <Compile Include="Assets\T4M\Scripts\T4MObjSC.cs" />
     <Compile Include="Assets\NGUI\Examples\Scripts\InventorySystem\Game\EquipRandomItem.cs" />
     <Compile Include="Assets\NGUI\Scripts\Interaction\UICenterOnClick.cs" />
   </ItemGroup>
@@ -220,6 +227,7 @@
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Colored (Packed) (TextureClip).shader" />
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed.shader" />
     <None Include="Assets\NGUI\Examples\Shaders\Unlit - Depth.shader" />
+    <None Include="Assets\T4M\Shaders\ShaderModel2\DirectionLM\T4M 3 TexturesBumped DLM.shader" />
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Transparent Packed 2.shader" />
     <None Include="Assets\NGUI\ReadMe - 2023.06.25.txt" />
     <None Include="Assets\NGUI\Resources\Shaders\Unlit - Premultiplied Colored 2.shader" />
